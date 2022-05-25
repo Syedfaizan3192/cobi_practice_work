@@ -1,0 +1,752 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+@import url("http://fonts.cdnfonts.com/css/montserrat");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans|Roboto+Mono|Work+Sans:400,700&display=swap");
+@import url("http://fonts.cdnfonts.com/css/myriad-pro");
+// body{
+//     overflow-x: hidden;
+// }
+
+.container {
+    width: 940px;
+}
+
+// navbar
+.cobi {
+    font-size: 44px;
+    font-family: "Segoe UI";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 0.523;
+}
+.navbar-opt {
+    font-size: 13px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.769;
+    margin-left: 330px;
+}
+.bg-color {
+    background-color: #010618;
+}
+.icon {
+    margin-left: 350px;
+}
+
+// navbar bottom
+.We_create_stunning_design {
+    p {
+        font-size: 60px;
+        font-family: "Segoe UI";
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        line-height: 0.209;
+        text-align: center;
+        position: absolute;
+        left: 300px;
+        top: 230.994px;
+        z-index: 5;
+        justify-content: center;
+    }
+}
+.div {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 530px;
+    top: 315px;
+    width: 247px;
+    height: 2px;
+    z-index: 7;
+}
+.divv {
+    background-color: rgba(255, 255, 255, 0.22);
+    position: absolute;
+    left: 275px;
+    width: 780px;
+    height: 1px;
+    z-index: 36;
+}
+._Lorem_ipsum_dolor_sit_amet__consectetuer_adipi {
+    font-size: 23px;
+    font-family: "WorkSans";
+    color: rgb(255, 255, 255);
+    line-height: 1.478;
+    text-align: center;
+    position: absolute;
+    left: 211.374px;
+    top: 343.687px;
+    width: 878px;
+    height: 56px;
+    z-index: 6;
+}
+.Abgerundetes_Rechteck_2 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0);
+    position: absolute;
+    left: 563px;
+    top: 550px;
+    width: 187px;
+    height: 63px;
+    z-index: 9;
+    border-radius: 25px;
+    text-align: center;
+    padding: 10px 10px;
+    // display: none;
+    p {
+        font-size: 12px;
+        color: rgb(255, 255, 255);
+        font-family: "Montserrat";
+        font-weight: bold;
+        text-transform: uppercase;
+        line-height: 1.917;
+        padding-top: 7px;
+    }
+}
+.Abgerundetes_Rechteck_2:hover {
+    background-color: rgba(0, 255, 255, 0.1);
+}
+
+.mouse_cursor {
+    position: absolute;
+    left: 651px;
+    top: 668px;
+    width: 16px;
+    height: 27px;
+    z-index: 18;
+}
+
+// bannnar-bottom
+.Service {
+    h1 {
+        font-size: 160px;
+        font-family: "Montserrat";
+        color: rgb(244, 246, 255);
+        font-weight: bold;
+        line-height: 0.341;
+        z-index: 42;
+        margin-top: 114px;
+    }
+}
+.Service-bot {
+    h5 {
+        font-size: 13px;
+        font-family: "Montserrat";
+        color: rgb(54, 94, 244);
+        font-weight: bold;
+        line-height: 4.462;
+        margin-top: -50px;
+        z-index: 44;
+    }
+}
+
+//learn-more button
+.btn-lm {
+    background-color: rgb(54, 94, 244);
+    // position: absolute;
+    width: 183px;
+    height: 59px;
+    // z-index: 48;
+    
+    border-radius: 25px;
+    p {
+        font-size: 12px;
+        font-family: "Montserrat";
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        text-transform: uppercase;
+        line-height: 1.917;
+        text-align: center;
+        margin-top: 15px;
+    }
+}
+.btn-lm:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    p {
+        color: black;
+    }
+}
+.Learn_about_our_agency_services {
+    font-size: 50px;
+    font-family: "Segoe UI";
+    color: rgb(1, 9, 39);
+    font-weight: bold;
+    line-height: 0.967;
+    text-align: left;
+    width: 400px;
+    margin-top: -30px;
+}
+.Duis_autem_vel_eum_iriure_dolor_in_hendrerit_in {
+    p {
+        font-size: 15px;
+        font-family: "WorkSans";
+        color: rgb(58, 67, 102);
+        line-height: 1.733;
+        top: 1210.383px;
+        width: 400px;
+    }
+}
+// .w34-ser
+// {
+//     margin-top: 100px;
+// }
+// icon 1st sectionn
+.Form_5 {
+    i {
+        // background-image: -moz-linear-gradient( 58deg, rgb(64,123,219) 0%, rgb(68,49,166) 100%);
+        // background-image: -webkit-linear-gradient( 58deg, rgb(64,123,219) 0%, rgb(68,49,166) 100%);
+        // background-image: -ms-linear-gradient( 58deg, rgb(64,123,219) 0%, rgb(68,49,166) 100%);
+        color: blue;
+        // position: absolute;
+        left: 874px;
+        // top: 1128px;
+        font-size: 40px;
+    }
+    h3 {
+        font-size: 18px;
+        font-family: "Segoe UI";
+        color: rgb(1, 9, 39);
+        font-weight: bold;
+        line-height: 2.333;
+        text-align: left;
+        top: 1155.701px;
+    }
+    p {
+        font-size: 15px;
+        font-family: "Myriad Pro";
+        color: rgb(58, 67, 102);
+        line-height: 1.733;
+        text-align: left;
+        left: 944px;
+        // top: 1189.383px;
+        width: 226px;
+        height: 160px;
+    }
+}
+
+// .w-cont {
+//     margin-top: 0px;
+// }
+
+// 3rd section
+.sec-3 {
+    margin-top: 50px;
+    .Process {
+        font-size: 170px;
+        font-family: "Montserrat";
+        color: rgb(244, 246, 255);
+        font-weight: bold;
+        line-height: 0.341;
+        text-align: center;
+        // position: absolute;
+        left: 646.895px;
+        // top: 1693.515px;
+        // z-index: 135;
+    }
+    .OUR_PROCESS {
+        font-size: 13px;
+        font-family: "Montserrat";
+        color: rgb(54, 94, 244);
+        font-weight: bold;
+        text-transform: uppercase;
+        line-height: 4.462;
+        text-align: center;
+        // position: absolute;
+        left: 895.938px;
+        // top: 1705.497px;
+        // z-index: 137;
+        margin-top: -60px;
+    }
+    .From_Planning_to_a_Strategy {
+        font-size: 60px;
+        font-family: "Segoe UI";
+        color: rgb(1, 9, 39);
+        font-weight: bold;
+        line-height: 0.967;
+        text-align: center;
+        // position: absolute;
+        left: 590px;
+        // top: 1808.984px;
+        // z-index: 136;
+        margin-top: -30px;
+    }
+}
+
+// 3rd-sec-part-2
+// extra
+.flex-container {
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 50px;
+    display: flex;
+
+    .child-flex {
+        flex: 1;
+    }
+}
+
+.flex-container-part {
+    margin-top: 50px;
+    display: flex;
+
+    .child-flex-part {
+        flex: 1;
+        img {
+            margin-left: 110px;
+        }
+        h3 {
+            font-size: 18px;
+            font-family: "Segoe UI";
+            color: rgb(1, 9, 39);
+            font-weight: bold;
+            line-height: 2.333;
+            text-align: center;
+            margin-top: 20px;
+        }
+        p {
+            font-size: 15px;
+            font-family: "Myriad Pro";
+            color: rgb(58, 67, 102);
+            line-height: 1.733;
+            text-align: center;
+            width: 221px;
+            height: 92px;
+            margin-left: 50px;
+        }
+    }
+
+    .child-flex-1 {
+        img {
+            flex: 1;
+            position: absolute;
+            z-index: 95;
+            top: 1700px;
+            margin-left: 240px;
+        }
+    }
+}
+// .responsive-flex-part
+// {
+//     img
+//     {
+//         display: none;
+//     }
+// }
+
+// 4th sec
+.w-sec-4 {
+    max-width: 100%;
+    // margin-top: 100px;
+    background-color: #fafbfe;
+}
+.Testimonials // it extends services
+{
+    h1 {
+        font-size: 97px;
+        color: #ffffff;
+    }
+}
+
+.side-img {
+    // margin-left: 190px;
+    // margin-right: 50px;
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+// 5th sec
+.sec-5 {
+    margin-top: 100px;
+}
+// 5th sec part 2
+
+.opt-sec-5 {
+    margin-left: 300px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    li {
+        font-size: 13px;
+        font-family: "Montserrat";
+        color: rgb(54, 94, 244);
+        list-style: none;
+        float: left;
+        font-weight: bold;
+        line-height: 2.769;
+        margin-left: 50px;
+    }
+    a {
+        text-decoration: none;
+        color: #010927;
+    }
+}
+// 5th - section 3rd part
+.sec-5-3 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sec-img {
+    img {
+        max-width: 100% !important;
+        height: auto;
+    }
+}
+.sec-img-bot {
+    margin-top: 10px !important;
+    height: auto;
+}
+
+// 6th sec part 2
+.sec-img-6 {
+    @extend .sec-img;
+}
+.sec-6-cont {
+    h3 {
+        font-size: 18px;
+        font-family: "Segoe UI";
+        color: rgb(1, 9, 39);
+        font-weight: bold;
+        line-height: 2.333;
+        text-align: center;
+    }
+    p {
+        font-size: 17px;
+        font-family: "Myriad Pro";
+        color: rgb(58, 67, 102);
+        line-height: 1.647;
+        text-align: center;
+    }
+    .for_hover {
+        border-style: solid;
+        border-width: 2px;
+        border-color: rgb(178, 192, 255);
+        background-color: rgba(255, 255, 255, 0);
+        width: 187px;
+        height: 43px;
+        margin-left: 70px;
+        border-radius: 25px;
+
+        p {
+            font-size: 12px;
+            font-family: "Montserrat";
+            color: rgb(1, 9, 39);
+            font-weight: bold;
+            text-transform: uppercase;
+            line-height: 2.917;
+            text-align: center;
+            // left: 898.938px;
+            // top: 5084.998px;
+        }
+    }
+}
+.for_hover:hover {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+// section 6 3rd partt
+.sec-6-3 {
+    margin-top: 150px;
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+// 7th sec
+.sec-7 {
+    margin-top: 100px;
+
+    h3 {
+        font-size: 13px;
+        color: rgb(54, 94, 244);
+        text-transform: uppercase;
+        line-height: 4.462;
+        text-align: left;
+        left: 373.938px;
+        top: 5780.497px;
+    }
+    h2 {
+        font-size: 18px;
+        font-family: "Segoe UI";
+        color: rgb(1, 9, 39);
+        font-weight: bold;
+        line-height: 2.1;
+        text-align: left;
+    }
+    p {
+        font-size: 15px;
+        font-family: "WorkSans";
+        color: rgb(58, 67, 102);
+        line-height: 1.733;
+        text-align: left;
+        left: 373.937px;
+        top: 5895.383px;
+        width: 359px;
+        height: 67px;
+    }
+    img {
+        border-radius: 50px;
+        height: 50px;
+    }
+    .text-add {
+        font-size: 14px;
+        font-family: "Myriad Pro";
+        color: rgb(1, 9, 39);
+        line-height: 3;
+        text-align: left;
+        margin-left: 10px;
+        top: 6043.25px;
+    }
+}
+
+// Section 8
+.section-padding {
+    padding-top: 50px;
+}
+
+.sec-8 {
+    background-image: url(/assests/Images/sec-8/bg1.png);
+    background-size: cover;
+
+    .Contact {
+        color: #ffffff;
+    }
+}
+.form-second {
+    margin-top: 50px;
+    margin-left: 200px;
+    // justify-content: center;
+}
+input[type="text"],
+input[type="email"],
+input[type="number"] {
+    background-color: #fafbfe;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 100% !important;
+    height: auto;
+    margin-top: 10px;
+    padding: 10px 10px;
+    font-style: italic;
+}
+label[for="user_name"],
+label[for="email"],
+label[for="number"],
+label[for="subject"],
+label[for="message"] {
+    font-size: 13px;
+    font-family: "Myriad Pro";
+    color: rgb(1, 9, 39);
+    text-transform: uppercase;
+    line-height: 3.077;
+    text-align: left;
+    left: 673.938px;
+    top: 6434px;
+}
+.form-input {
+    justify-content: center;
+}
+.btn-submit {
+    @extend .btn-lm;
+    margin-top: 30px;
+    margin-left: 940px;
+}
+
+// map
+.map {
+    margin-top: 50px;
+    position: relative;
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    .fot-up {
+        img {
+            margin-left: 600px;
+            position: absolute;
+            bottom: -12px;
+        }
+    }
+}
+
+// footer
+
+.bg_footer {
+    background-color: #141c29;
+    padding-top: 50px;
+    background-size: cover;
+    text-align: left;
+    padding-bottom: 1px;
+}
+.first-part {
+    .first-part-footer {
+        p {
+            font-size: 15px;
+            font-family: "WorkSans";
+            color: rgb(255, 255, 255);
+            line-height: 1.733;
+            text-align: left;
+            left: 372.997px;
+            top: 7542.383px;
+            width: 231px;
+            height: 67px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+    }
+
+    .second-part-footer {
+        .heading {
+            p {
+                font-size: 15px;
+                font-family: "Montserrat";
+                color: rgb(255, 255, 255);
+                font-weight: bold;
+                text-transform: uppercase;
+                line-height: 1.333;
+                text-align: left;
+                left: 673.937px;
+                top: 7435.003px;
+            }
+        }
+        .content {
+            font-size: 12px;
+            font-family: "Segoe UI";
+            color: rgb(255, 255, 255);
+            // font-weight: bold;
+            line-height: 2;
+            text-align: left;
+            left: 674px;
+            top: 7517.398px;
+            width: 232px;
+            height: 30px;
+        }
+        .footer_line {
+            background-color: rgb(34, 48, 69);
+            left: 674px;
+            top: 7559px;
+            width: 271px;
+            height: 1px;
+            margin-top: 40px;
+            margin-bottom: 20px;
+        }
+    }
+    .third_part {
+        .heading {
+            font-size: 15px;
+            font-family: "Montserrat";
+            color: rgb(255, 255, 255);
+            font-weight: bold;
+            text-transform: uppercase;
+            line-height: 1.333;
+            text-align: left;
+            left: 673.937px;
+            top: 7435.003px;
+        }
+        img {
+            max-width: 60%;
+            height: auto;
+        }
+    }
+    .fourth_part {
+        .heading {
+            font-size: 15px;
+            font-family: "Montserrat";
+            color: rgb(255, 255, 255);
+            font-weight: bold;
+            text-transform: uppercase;
+            line-height: 1.333;
+            text-align: left;
+            left: 673.937px;
+            top: 7435.003px;
+        }
+        .content {
+            font-size: 15px;
+            font-family: "WorkSans";
+            color: rgb(255, 255, 255);
+            line-height: 1.733;
+            text-align: left;
+            left: 1273.147px;
+            top: 7509.383px;
+            width: 249px;
+            height: 41px;
+        }
+        li {
+            list-style: none;
+        }
+        .icon_fourth_part {
+            li {
+                margin-left: 0%;
+                padding-left: 0%;
+                justify-content: left;
+            }
+        }
+        .fa-location-dot,
+        .fa-phone,
+        .fa-at {
+            // left: 1274px;
+            top: 7573px;
+            // width: 10px;
+            // height: 13px;
+            color: rgb(54, 94, 244);
+            // text-align: left;
+            clear: both;
+        }
+        .text_inner {
+            clear: both;
+            font-size: 14px;
+            font-family: "Myriad Pro";
+            color: rgb(255, 255, 255);
+            // line-height: 2.286;
+            left: 1298.786px;
+            // top: 7595.248px;
+            margin-left: 10px;
+            float: right;
+        }
+    }
+}
+
+.second_part {
+    .line_fot {
+        @extend .divv;
+        margin-top: 10px;
+    }
+}
+.third_part_copy {
+    .content {
+        font-size: 14px;
+        font-family: "WorkSans";
+        color: rgb(255, 255, 255);
+        // line-height: 3.429;
+        text-align: center;
+        left: 778.938px;
+        top: 7801.217px;
+        margin-top: 30px;
+    }
+}
+
+.fa-facebook,
+.fa-twitter,
+.fa-google,
+.fa-pinterest,
+.fa-instagram,
+.fa-wifi {
+    border: 3px gray;
+    color: #ffff;
+    border-top: 3px solid #384457;
+    border-bottom: 3px solid #384457;
+    border-left: 3px solid #384457;
+    border-right: 3px solid #384457;
+    background-color: rgb(56, 73, 85);
+    border-radius: 2px;
+    width: 28px;
+    height: 22px;
+    left: 375px;
+    top: 7631px;
+    text-align: center;
+}
+// END
